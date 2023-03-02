@@ -1,0 +1,6 @@
+Easy-peasy redux ile Crud işlemleri kendi componenlerine alındı.
+
+çalıştırmak için 
+npm i 
+npx json-server --watch --port 3500 data/db.json /// json serveri ayağa kaldırma
+npm start /// react projesini ayağa kaldırma.
